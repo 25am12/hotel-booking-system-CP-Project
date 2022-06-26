@@ -1,0 +1,50 @@
+0
+2
+3
+1
+Packages Mall
+1
+5
+2
+0
+Faisal Mosque
+2
+4
+1
+1
+Bahria University
+3
+0
+1
+1
+F-10 Markaz
+5
+2
+3
+1
+Centaurus Mall
+6
+4
+1
+1
+E-11 Markaz
+7
+10
+1
+1
+
+7
+10
+1
+1
+
+7
+10
+1
+1
+
+7
+10
+1
+1
+
